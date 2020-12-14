@@ -1,6 +1,7 @@
 {
-    "downloadUrl": "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/main/InstallationScripts/blue.js",
-    "name": "off",
+    "downloadUrl": "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationScripts/blue.js",
+    "name": "blue",
     "isAnimated": false,
-    "delay": 0
+    "delay": 0,
+    "author": "yannikhoeflich"
 }
