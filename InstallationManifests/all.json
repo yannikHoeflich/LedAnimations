@@ -1,0 +1,12 @@
+{
+    "downloadUrl": "",
+    "name": "",
+    "isAnimated": false,
+    "delay": 0,
+    "author": "yannikhoeflich",
+    "version": "1.0",
+    "dependencies": [
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/baseColors.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/rainbow_animations.json"
+    ]
+}
