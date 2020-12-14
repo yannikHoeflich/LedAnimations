@@ -2,5 +2,7 @@
     "downloadUrl": "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationScripts/rainbow_spectrum.js",
     "name": "rainbow spectrum",
     "isAnimated": true,
-    "delay": 30
+    "delay": 30,
+    "author": "yannikhoeflich",
+    "version": "1.0"
 }
