@@ -1,0 +1,18 @@
+{
+    "downloadUrl": "",
+    "name": "baseColors",
+    "isAnimated": false,
+    "delay": 0,
+    "author": "yannikhoeflich",
+    "version": "1.0",
+    "dependencies": [
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/blue.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/cyan.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/dark_purple.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/green.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/orange.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/purple.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/red.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/yellow.json"
+    ]
+}

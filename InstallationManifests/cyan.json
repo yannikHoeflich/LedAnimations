@@ -1,13 +1,13 @@
 {
     "downloadUrl": "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationScripts/staticColor.js",
-    "name": "blue",
+    "name": "cyan",
     "isAnimated": false,
     "delay": 0,
     "author": "yannikhoeflich",
     "version": "1.0",
     "data": {
         "r": 0,
-        "g": 0,
+        "g": 255,
         "b": 255
     }
 }
