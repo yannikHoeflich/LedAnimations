@@ -7,6 +7,8 @@
     "version": "1.0",
     "dependencies": [
         "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/off.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/white.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/dimmed_white.json",
         "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/blue.json",
         "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/cyan.json",
         "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/dark_purple.json",
