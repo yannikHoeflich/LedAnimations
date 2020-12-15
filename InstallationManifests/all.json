@@ -7,6 +7,8 @@
     "version": "1.0",
     "dependencies": [
         "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/base_colors.json",
-        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/rainbow_animations.json"
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/rainbow_animations.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/space.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/colorful.json"
     ]
 }

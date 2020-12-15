@@ -1,0 +1,18 @@
+{
+    "downloadUrl": "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationScripts/universe_galaxy.js",
+    "name": "galaxy",
+    "isAnimated": true,
+    "delay": 30,
+    "author": "yannikhoeflich",
+    "version": "1.0",
+    "data": {
+      "_type_cloudColors": "System.Drawing.Color[]",
+      "cloudColors": [ "21, 21, 49", "66, 26, 146", "64, 75, 227", "64, 75, 227", "57, 190, 255", "192, 81, 255" ],
+
+      "_type_starColors": "System.Drawing.Color[]",
+      "starColors": [ "255, 255, 255" ],
+
+      "_type_backgroundColor": "System.Drawing.Color",
+      "backgroundColor": "0, 0, 0"
+    }
+}

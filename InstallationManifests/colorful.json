@@ -1,0 +1,12 @@
+{
+    "downloadUrl": "",
+    "name": "",
+    "isAnimated": false,
+    "delay": 0,
+    "author": "yannikhoeflich",
+    "version": "1.0",
+    "dependencies": [
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/pulse.json",
+        "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationManifests/fill_points_to_end.json"
+    ]
+}

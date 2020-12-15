@@ -1,5 +1,5 @@
 {
-    "downloadUrl": "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationScripts/staticColor.js",
+    "downloadUrl": "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationScripts/clear.js",
     "name": "off",
     "isAnimated": false,
     "delay": 0,
