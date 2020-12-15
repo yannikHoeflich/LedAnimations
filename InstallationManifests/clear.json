@@ -1,0 +1,9 @@
+{
+    "downloadUrl": "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationScripts/clear.js",
+    "name": "clear",
+    "isAnimated": false,
+    "delay": 0,
+    "author": "yannikhoeflich",
+    "version": "1.0",
+    "hidden": true
+}
