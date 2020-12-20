@@ -1,0 +1,15 @@
+{
+    "downloadUrl": "https://raw.githubusercontent.com/yannikHoeflich/LedAnimations/master/InstallationScripts/alarm_clock.js",
+    "name": "clock %hour%:%minute%",
+    "isAnimated": true,
+    "delay": 5000,
+    "author": "yannikhoeflich",
+    "version": "1.0",
+    "data": {
+        "hour": "%_input%",
+        "minute": "%_input%",
+        "fade_in_minutes": "%_input%",
+        "_type_color": "System.Drawing.Color",
+        "color": "255, 100, 20"
+    }
+}
